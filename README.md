@@ -40,7 +40,7 @@ This project is intentionally kept simple as a **learning project**, rather than
   <img
     width="400"
     alt="Healthcare Smart Assistant"
-    src="https://github.com/user-attachments/assets/82a3c25d-fe5b-4087-8218-fb6d56ef2bcb"
+    src="https://github.com/user-attachments/assets/17efbcd8-7d5d-46cd-89b3-31aa5bc6b9a0"
   />
 </div>
 
